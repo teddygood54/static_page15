@@ -1,0 +1,5 @@
+django
+netaddr
+pscopg2
+dj-datadase-url
+guncorn
